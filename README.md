@@ -11,7 +11,7 @@ Bu paket, kaynak kodu ile aynı dizin içerisinde bulunacaktır.
 
 1-PAKETİN İÇERİĞİ:
 -------------------
-170201008-170201058.c - Projenin tek dosyaya indirgenmiş salt kaynak kodu.
+170201008-170201058.cpp - Projenin salt kaynak kodu.
 README.md - Bu dosya.
 -------------------
 
